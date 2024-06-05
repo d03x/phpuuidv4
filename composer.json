@@ -4,8 +4,11 @@
     "minimum-stability": "dev",
     "version": "v1.0.0",
     "autoload": {
+        "files": [
+            "./src/uuuidv4.php"
+        ],
         "psr-4": {
-            "Tingped\\PhpUuidv4\\": "src/"
+            "DadanSki\\PhpUuidv4\\": "src/"
         }
     },
     "authors": [
@@ -14,5 +17,6 @@
             "email": "dadanhidyt@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {}
 }

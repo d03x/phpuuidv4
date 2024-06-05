@@ -1,6 +1,6 @@
 <?php
 
-namespace dadanski\phpuuidv4;
+namespace DadanSki\PhpUuidv4;
 
 /**
  * Undocumented function.
