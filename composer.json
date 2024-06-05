@@ -2,7 +2,7 @@
     "name": "dadanski/phpuuidv4",
     "type": "library",
     "minimum-stability": "dev",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "autoload": {
         "files": [
             "./src/uuidv4.php"
